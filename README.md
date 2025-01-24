@@ -1,4 +1,4 @@
-<h2>Projekt zaliczeniowy z przedmiotu Sieci Komputerowe 2</h2>h2>. <p>Prosty komunikator internetowy umożliwiający użytkownikom rejestrację, logowanie oraz komunikację w czasie rzeczywistym. Aplikacja obsługuje zarówno rozmowy indywidualne, jak i grupowe. Użytkownicy mogą dodawać znajomych, wysyłać i odbierać zaproszenia do znajomych, a także tworzyć grupy do wspólnych rozmów.
+<h2>Projekt zaliczeniowy z przedmiotu Sieci Komputerowe 2</h2>. <p>Prosty komunikator internetowy umożliwiający użytkownikom rejestrację, logowanie oraz komunikację w czasie rzeczywistym. Aplikacja obsługuje zarówno rozmowy indywidualne, jak i grupowe. Użytkownicy mogą dodawać znajomych, wysyłać i odbierać zaproszenia do znajomych, a także tworzyć grupy do wspólnych rozmów.
 Dane o użytkownikach zapisywane są w dedykownym pliku users,json umieszczonym na serwerze.</p>
 
 <p>Autorzy: Jakub Glazik 156018, Kacper Szymański 155860</p>
