@@ -1,0 +1,26 @@
+{
+    "asd": {
+        "friend_requests": [],
+        "friends": [
+            "qwe",
+            "zxc"
+        ],
+        "password": "asd"
+    },
+    "qwe": {
+        "friend_requests": [],
+        "friends": [
+            "asd",
+            "zxc"
+        ],
+        "password": "qwe"
+    },
+    "zxc": {
+        "friend_requests": [],
+        "friends": [
+            "qwe",
+            "asd"
+        ],
+        "password": "zxc"
+    }
+}
